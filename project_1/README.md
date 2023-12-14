@@ -1,4 +1,4 @@
-# Project_1 consists of:
+# Project_1 consists of solving problems in:
 
 ## Convolution
 
